@@ -9,6 +9,8 @@
 ![LARAVEL](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=580000&textColor=FFFFFF)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MYSQL-0D1117?style=for-the-badge&logo=mysql&labelColor=580000&textColor=FFFFFF)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=580000&textColor=FFFFFF)&nbsp;
+![JAVA](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=580000&textColor=FFFFFF)&nbsp;
+
 
 
  
